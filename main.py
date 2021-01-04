@@ -35,4 +35,4 @@ if __name__ == "__main__":
 	s.init_app(app)
 
 	app.debug = True
-	app.run(port=0000)
+	app.run(port=5000)
